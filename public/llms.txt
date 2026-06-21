@@ -1,0 +1,104 @@
+# Avrham Elbaz Production — Generative Engine Optimization Map
+
+> Avrham Elbaz Production is an entertainment production company with an existing website that serves as the design and content reference. The user wants to replicate the look, feel, and structure of this site for a new project.
+
+---
+
+## Pages
+
+### בית
+https://avrham-elbaz-production-0fb17113.zappy5.app
+מחפש להפיק יום הולדת בלתי נשכח? אצלנו תמצא השכרת ציוד לאירועים, מתנפחים, מכונות מזון, הגברה ותאורה בנתיבות והסביבה. לחץ לפרטים והצעת מחיר!
+
+### שירותים
+https://avrham-elbaz-production-0fb17113.zappy5.app/services
+מכונות מזון להשכרה, השכרת גנרטורים בנתיבות באשקלון באשדוד, הגברה ותאורה לאירועים. כל הציוד שיהפוך את האירוע שלך לחוויה מושלמת. היכנס עכשיו!
+
+### אודות
+https://avrham-elbaz-production-0fb17113.zappy5.app/about
+אברהם אלבז הפקות מביאה ניסיון עשיר בהפקת אירועים וימי הולדת עם ציוד מתקדם, אמינות ושירות אישי. גלו איך אנחנו הופכים כל אירוע לזיכרון לכל החיים.
+
+### צור קשר
+https://avrham-elbaz-production-0fb17113.zappy5.app/contact
+רוצה להפיק יום הולדת או אירוע מיוחד? צור קשר עכשיו עם אברהם אלבז הפקות – השכרת ציוד, מתנפחים, הגברה וגנרטורים בנתיבות, אשקלון ואשדוד. אנחנו מחכים לך!
+
+### Products
+https://avrham-elbaz-production-0fb17113.zappy5.app/products
+המוצרים שלנו - Avrham Elbaz Production
+
+### Cart
+https://avrham-elbaz-production-0fb17113.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://avrham-elbaz-production-0fb17113.zappy5.app/checkout
+תשלום
+
+### Login
+https://avrham-elbaz-production-0fb17113.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://avrham-elbaz-production-0fb17113.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://avrham-elbaz-production-0fb17113.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://avrham-elbaz-production-0fb17113.zappy5.app/product/:slug
+פרטי המוצר - Avrham Elbaz Production
+
+### Category
+https://avrham-elbaz-production-0fb17113.zappy5.app/category/:slug
+מוצרים - Avrham Elbaz Production
+
+### תודה על פנייתכם
+https://avrham-elbaz-production-0fb17113.zappy5.app/thank-you
+Avrham Elbaz Production - תודה על פנייתכם
+
+## Legal & Policy
+
+### Privacy Policy
+https://avrham-elbaz-production-0fb17113.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://avrham-elbaz-production-0fb17113.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://avrham-elbaz-production-0fb17113.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Avrham Elbaz Production
+Avrham Elbaz Production is an entertainment production company with an existing website that serves as the design and content reference. The user wants to replicate the look, feel, and structure of this site for a new project.
+
+## Target Audience
+- לקוחות עסקיים
+- מוסדות תרבות
+- חוגגים יום הולדת
+
+## Industry
+Entertainment Production
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://avrham-elbaz-production-0fb17113.zappy5.app/sitemap.xml
+- Robots: https://avrham-elbaz-production-0fb17113.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://avrham-elbaz-production-0fb17113.zappy5.app/llms-full.txt
+- Products (JSON): https://avrham-elbaz-production-0fb17113.zappy5.app/products.json
+- Products (Google Merchant RSS): https://avrham-elbaz-production-0fb17113.zappy5.app/product-feed.xml
